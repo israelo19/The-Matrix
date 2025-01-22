@@ -7,4 +7,4 @@ The main file is already compiled and can be ran, but you can use the makefile b
 
 Feel free to submit a pull request if you think it would be beneficial!
 
-![Uploading image.png…]()
+<img width="1110" alt="image" src="https://github.com/user-attachments/assets/ff4ee546-2eeb-4bf5-9257-f341d48edd21" />
